@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Introduction
 
 I am Ailing, and I am currently studying Data Science program in Imperial College London.
-
+- previous education: University of Toronto HBSc Statistics – Quantitative Finance Stream
 - How to reach me: ailingleu@outlook.com
-- I am looking to study statistics to slove actual problem
+- I am looking to study statistics to solve actual problem
 - 
