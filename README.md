@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Introduction zzz
+# Introduction
 
 I am Ailing, and I am currently studying Data Science program in Imperial College London.
 
