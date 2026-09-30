@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Introduction
+
+I am Ailing, and I am currently studying Data Science program in Imperial College London.
+
+- How to reach me: ailingleu@outlook.com
+- I am looking to study statistics to slove actual problem 
